@@ -1,0 +1,223 @@
+body {
+  margin: 0;
+}
+
+footer {
+  background-color: hsl(243, 87%, 12%);
+  color: white;
+  padding-bottom: 50px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin: 0;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+ul {
+  list-style-type: none;
+}
+
+.header {
+  font-family: sans-serif;
+}
+
+.top-container {
+  font-family: sans-serif;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: hsl(240, 75%, 98%);
+  font-family: sans-serif;
+}
+
+.bottom-container {
+  font-family: sans-serif;
+  background-color: hsl(238, 22%, 44%);
+  color: white;
+}
+
+.bottom-menu {
+  font-family: sans-serif;
+  background-color: hsl(243, 87%, 12%);
+  color: white;
+}
+
+.bottom-menu ul {
+  display: inline-block;
+}
+
+.top-menu {
+  position: absolute;
+  right: 100px;
+}
+
+.top-menu li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.logo {
+  float: left;
+}
+
+div {
+  margin: 0;
+}
+
+.quote {
+  background-color: white;
+  padding: 20px;
+  border-radius: 4px;
+  width: 300px;
+  -webkit-box-shadow: -1px 0px 8px 5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 0px 8px 5px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 0px 8px 5px rgba(0, 0, 0, 0.1);
+  line-height: 1.5;
+  margin-top: 50px;
+}
+
+.quote-inner {
+  width: 100%;
+}
+
+.quote-inner h4, .quote-inner p {
+  margin: 0;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  width: 40px;
+  float: left;
+  margin-right: 10px;
+}
+
+.content-padding {
+  padding: 100px 100px;
+}
+
+.logo-white {
+  display: inline;
+}
+
+.inner-div {
+  width: 40%;
+  float: left;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 1.5;
+}
+
+.button {
+  width: 175px;
+  padding: 15px;
+  border-radius: 4px;
+  border: 0 solid black;
+  background-color: hsl(224, 93%, 58%);
+  color: white;
+  margin-left: 15px;
+}
+
+.email-fill {
+  width: 200px;
+  padding: 15px;
+  border-radius: 4px;
+  border: 1px solid black;
+  color: rgba(0, 0, 0, .4)
+}
+
+.illustration {
+  width: 500px;
+  margin-left: 200px;
+}
+
+.clear {
+  clear: both;
+}
+
+.get-started {
+  width: 550px;
+  margin-left: 750px;
+  padding-top: 40px;
+}
+
+.get-started input {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.email-2 {
+  width: 500px;
+  padding: 15px;
+  border-radius: 4px;
+  border: 1px solid black;
+  color: rgba(0, 0, 0, .4)
+}
+
+.button-2 {
+  width: 175px;
+  padding: 15px;
+  border-radius: 4px;
+  border: 0 solid black;
+  background-color: hsl(224, 93%, 58%);
+  color: white;
+}
+
+.icon {
+  margin-right: 15px;
+}
+
+.curve-image {
+  width: 100%;
+  margin: 0;
+  display: block;
+}
+
+.bottom-lists {
+  padding: 0;
+}
+
+.list-container-a {
+  width: 300px;
+  display: inline-block;
+  margin: 0;
+  float: left;
+}
+
+.list-container-b {
+  width: 100px;
+  display: inline-block;
+  margin: 0 0 0 20%;
+  float: left;
+  list-style-type: none;
+}
+
+.list-container-b ul {
+  margin: 0;
+  padding: 2px;
+}
+
+.list-container-b li {
+  margin-bottom: 16px;
+}
+
+.list-container-a p {
+  margin-top: 0;
+}
+
+.list-spacer {
+  width: 250px;
+  float: left;
+  display: table-cell;
+}
+
+.profile-title {
+  font-size: .70em;
+}
